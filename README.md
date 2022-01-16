@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm a front-end developper React / VueJs
+I'm a front-end developper main React (can VueJs too)
+
+Actually Open to work.
+
+React / Redux / Next...
 
 <!--
 **Keongy/Keongy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
