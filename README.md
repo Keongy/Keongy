@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end developper main React (can VueJs too)
+I'm a front-end developper main React 
 
 Actually Open to work.
 
