@@ -4,7 +4,7 @@ I'm a front-end developper main React
 
 Actually Open to work.
 
-React / Redux / Next...
+HTML, CSS, React.js / Typescript / SASS / Bootstrap / Node.js / Redux / Firebase / NPM / YARN...
 
 <!--
 **Keongy/Keongy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
