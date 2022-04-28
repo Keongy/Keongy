@@ -2,7 +2,6 @@
 
 I'm a front-end developper main React 
 
-Actually Open to work.
 
 HTML, CSS, React.js / Typescript / SASS / Bootstrap / Node.js / Redux / Firebase / NPM / YARN...
 
